@@ -1,2 +1,2 @@
-# carhub
-Next.js/React first project
+# Carhub
+My Next.js/React first project
